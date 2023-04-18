@@ -1,0 +1,13 @@
+<!-- 
+Tags básicas
+<title> título da página
+<h1> cabeçalho da página
+<b> colocar em negrito o texto
+<strong> colocar em negrito e dar enfase (leitura forte)
+<hr> adiciona linha
+<p> paragrafo 
+<i> colocar em italico
+<!-- --> adiciona comentário ao código ctrl + /
+<img scr=” (ctrl+ espaço para procurar a imagem) ” alt=” “ height=”(coloca a largura da imagem, escrever com px para definir os pixels) ”> adiciona imagem
+<br> quebra de linha (modo grosseiro de se fazer)
+-->
